@@ -3,8 +3,6 @@ import React from 'react';
 const Projects = () => {
   return (
     <section id="projects">
-      <h2>Projects</h2>
-      {/* Add your project components or details here */}
       <h2>Experience</h2>
       <p><strong>Samsung R&D Institute</strong> | December 2022 - August 2023</p>
       <p><strong>Prism Developer</strong> | Remote</p>
