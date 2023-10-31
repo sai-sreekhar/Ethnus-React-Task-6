@@ -14,7 +14,7 @@ const Projects = () => {
 
       <h2>Projects</h2>
       <p><strong>FuturePreneurs Project, E-Cell VIT</strong> | August 2022 - October 2022</p>
-      <p><strong>GitHub Repository</strong> | [Insert Repository Link]</p>
+      <p><strong>GitHub Repository</strong> | [https://github.com/sai-sreekhar/ESummit-Backend23]</p>
       <ul>
         <li>Tools & Technologies used: NodeJS, ExpressJS, MongoDB, AWS, JMeter</li>
         <li>Designed and developed the entire Backend module for FuturePreneurs project with NodeJS/ExpressJS and MongoDB.</li>
