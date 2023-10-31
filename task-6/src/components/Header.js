@@ -3,8 +3,8 @@ import React from 'react';
 const Header = () => {
   return (
     <header>
-      <h1>Devak Reddy</h1>
-      <p>Web Developer</p>
+      <h1>Sai Sreekar</h1>
+      <p>Full Stack Web Developer || Big Data Enthusiast</p>
     </header>
   );
 }
